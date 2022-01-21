@@ -1,0 +1,4 @@
+.newsList {
+    display: flex;
+    flex-direction: column;
+}
